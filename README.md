@@ -1,1 +1,1 @@
-# Android_device_tinno_v3702
+# WALTON Primo GH6 Device Tree

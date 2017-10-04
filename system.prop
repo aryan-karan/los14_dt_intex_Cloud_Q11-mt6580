@@ -1,6 +1,6 @@
 #
 #
-# system.prop for BQS-5020
+# system.prop for Primo_GH6
 #
 
 rild.libpath=/system/lib/mtk-ril.so

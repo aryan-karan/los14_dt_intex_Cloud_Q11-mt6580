@@ -5,15 +5,15 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/tinno/v3702/device.mk)
 
 # Release name
-PRODUCT_RELEASE_NAME := BQStrike
+PRODUCT_RELEASE_NAME := Primo_GH6
 
 EXTENDED_FONT_FOOTPRINT := true
 
 PRODUCT_DEVICE := v3702
 PRODUCT_NAME := lineage_v3702
-PRODUCT_BRAND := BQ
-PRODUCT_MODEL := BQS-5020
-PRODUCT_MANUFACTURER := BQ
+PRODUCT_BRAND := WALTON
+PRODUCT_MODEL := Primo_GH6
+PRODUCT_MANUFACTURER := WALTON
 PRODUCT_RESTRICT_VENDOR_FILES := false
 
 # Boot animation

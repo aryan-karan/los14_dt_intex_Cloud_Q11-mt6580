@@ -1,1 +1,1 @@
-# Android_device_bq_strike LineageOS 14.1
+# Intex Cloud Q11 LineageOS 14.1

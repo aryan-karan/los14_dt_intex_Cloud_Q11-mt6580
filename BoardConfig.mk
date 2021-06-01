@@ -198,3 +198,5 @@ BOARD_RIL_CLASS := ../../../$(LOCAL_PATH)/ril
 # seccomp
 BOARD_SECCOMP_POLICY := $(LOCAL_PATH)/seccomp
 
+# Fix selinux neverallows
+SELINUX_IGNORE_NEVERALLOWS := true

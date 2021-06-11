@@ -49,8 +49,8 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += libmt6580
 
-# PRODUCT_PROPERTY_OVERRIDES += \
-#    ro.telephony.ril_class=MT6580
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.telephony.ril_class=MT6580
 
 # Ramdisk
 PRODUCT_COPY_FILES += \
